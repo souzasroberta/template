@@ -10,11 +10,5 @@ para utilizar essa aplicação será necessário .... (inserir exemplos de utili
 
 Também é possível inserir um código exemplo, como abaixo:
 
-''' 
-
-Public class Teste {
-
-
-}
-
-'''
+`Public class Teste { 
+}`
